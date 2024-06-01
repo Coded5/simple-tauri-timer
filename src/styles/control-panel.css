@@ -1,0 +1,32 @@
+.control-panel {
+  display: flex;
+}
+
+.control-panel:first-child div {
+  margin-left: 0;
+}
+
+.control-panel:last-child div {
+  margin-right: 0;
+}
+
+.btn-disable {
+  background-color: #0c0e11;
+}
+
+.control-panel > div {
+  display: flex;
+  flex: 1;
+  height: 3em;
+  background-color: #1b1f27;
+  margin: 8px 4px 8px 4px;
+  
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+}
+
+.control-panel > div:hover {
+  background-color: #4f5b73;
+  cursor: pointer;
+}
