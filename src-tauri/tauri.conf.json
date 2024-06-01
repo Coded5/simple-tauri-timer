@@ -21,7 +21,8 @@
       {
         "title": "Timer",
         "width": 400,
-        "height": 180
+        "height": 180,
+        "resizable": false
       }
     ],
     "security": {
