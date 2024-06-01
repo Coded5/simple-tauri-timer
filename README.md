@@ -1,6 +1,6 @@
 # Simple Timer
 
-A Simple time made with tauri in Neovim.
+A Simple time made with tauri in Neovim within a day.
 
 To run
 ```
